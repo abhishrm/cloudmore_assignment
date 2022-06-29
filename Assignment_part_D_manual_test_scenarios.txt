@@ -1,0 +1,212 @@
+
+Test_1 (Use Case 1): Verify that when user login to the system for the very first time, then user is not allowed to login to the system and system should
+explicitly ask the user to change password with proper event log (Happy Path).
+
+Pre-Requisite conditions: Admin has  set the username/password for the user.
+Admin has set that the wizard is "not mandatory"
+
+Test steps:
+
+When admin set up username/password for user "U1".
+And then if user "U1" tries to do login using system generated username and password.
+Then user "U1" should get redirect to page /Accounts/changePassword.asp.
+And there is no "wizard" pop up on the screen.
+And then user "U1" should see an option to update password on the same page.
+
+When user enters the valid new password 
+Then password update should happen 
+Then verify that password change is logged in the event log.
+And login should be successfull.
+
+
+Test_2((Use Case 1): Verify that when user login to the system for the very first time, then user is not allowed to login to the system and system should
+explicitly ask the user for "wizard" signup first and then change password with proper event log (Happy Path).
+
+Pre-Requisite conditions: Admin has  set the username/password for the user.
+Admin has set that the wizard is "mandatory".
+
+Test steps:
+When admin set up username/password for user "U1".
+And then if user "U1" tries to do login using system generated  username and password.
+Then user "U1" should get redirect to "wizard" page.
+
+When user add an information about herself, like Name, phone, job title .
+Then user should be able to sumbit this "wizard" request
+Then user "U1" should get redirect to page /Accounts/changePassword.asp.
+And now there is no "wizard" pop up on the screen.
+And then user "U1" should see an option to update password on the same page.
+
+When user enters the valid new password.
+Then password update should happen.
+Then verify that password change is logged in the event log.
+And login should be successfull.
+
+
+Test_3((Use Case 1) (Negative test): Verify that password validation happens and there is no logged in event log generated when user tries to change password with unacceptable characters. 
+
+Pre-Requisite conditions: Admin has set the username/password for the user.
+Now user tries to login into the system and see "/Accounts/changePassword.aspx"pop up window.
+
+Test steps:
+When user tries to click update password keeping password areabox as blank.
+Then password update should fail stating that, please update the password.
+Then verify that error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password with providing only spaces or some character with leading/trailing spaces in password areabox.
+Then password update should fail stating that, please update the password.
+Then verify that user "U1" still get the error and error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password by providing the password length as less than the minimum accepted characters.
+Then password update should fail stating that, length of password should be greater than <n> number of characters
+And verify error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password by providing the password length as more than the maximum accepted characters.
+Then password update should fail stating that, length of password should be less than <n> number of characters
+And verify error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+
+Test_4(Use Case 1) : Verify that user can login to the system and there is no change password/wizard window pop up, once the password has been successfully updated.
+
+Pre-requisite Conditions:
+User has successfully updated the password.
+
+Test steps:
+When this user again do the login.
+Then user "should not see" page -> /Accounts/changePassword.aspx
+And user should be successfully logged into the system.
+
+
+Test_5(Use Case 1): Verify that user can not use the same password set by Admin for updating password when user login for the very first time and is redirected to "Accounts/changePassword.aspx"
+Pre-requisite Conditions:
+Admin set the username/password for the user.
+
+Test steps:
+When user login to the system.
+Then user is redirected to "/Accounts/changePassword.aspx".
+
+When user tries to update the password with same Admin password.
+Then password update should fail stating that you can use this password.
+
+
+
+
+USER2 Story tests are shared below:
+
+Test_1 (Use Case 2):Verify that user is forced to update the password when user password is reseted by the system or let say customer login.
+
+Pre-Condition: System reset the user password
+
+Test steps:
+When user login to the system for very first time after password is reset by the system.
+Then user should be redirected to page /Accounts/changePassword.aspx.
+When user enters the accetable password (as per validation).
+Then password update should be successfull.
+And it should be logged in event log.
+
+
+Test_2 (Use Case 2):Verify that user when do the reset of the password by himself and tries to login to the system.
+Pre-Condition: When user reset the password on its own.
+
+Test steps:
+When user reset password by himself.
+And then change the password.
+
+Now when user login to the system again.
+Then user should "not be" redirected to page /Accounts/changePassword.aspx.
+And user login should be successfull.
+
+
+Test_3 (Use Case 2): Verify that when user by himself reset the password with new password but tries to login with old password 
+
+Test steps:
+When user reset the password by himself.
+And then update the password and set new one.
+
+Now when user tries to do login to the system with old password.
+Then user login should fail.
+
+
+
+Test_4 (Use Case 2):Verify that user can not update the password with old password when user password is reseted by the system or let say customer login.
+
+Pre-Condition: System reset the user password.
+
+Test steps:
+When user login to the system for very first time after password is reset.
+Then user should be redirected to page /Accounts/changePassword.aspx
+
+When user enters the old password.
+Then user should see error stating that -> "Old password can not be used"
+
+Test_5(Use Case 2): Verify the validation of password when user tries to reset the password
+Pre-Condition: System has reset the password for the user.
+And now user on login is redirected to /Accounts/changePassword.aspx
+
+Test steps:
+When user tries to click update password without entering anythinhg into password areabox i.e. keeping password as blank.
+Then password update should fail stating that, please update the password.
+Then verify that error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password with providing only spaces  or some character with leading/trailing spaces in password areabox.
+Then password update should fail stating that, please update the password.
+Then verify that user "U1" still get the error and error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password by providing the password length as less than the minimum accepted characters.
+Then password update should fail stating that, length of password should be greater than <n> number of characters
+And verify error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+When user tries to click update password by providing the password length as more than the maximum accepted characters.
+Then password update should fail stating that, length of password should be less than <n> number of characters
+And verify error string is proper and is showing correctly on UI layout.
+And password should not be logged in the event log.
+
+Test_6(Use Case 2):
+Verify that reset password with the link "/Accounts/changePassword.aspx" is only possible within the specified time limit as we expect link to expire after cetain duration.
+
+Pre-Condition: System reset the user password.
+
+Test steps:
+When user login to the system for very first time after password is reset by the system.
+Then user should be redirected to page /Accounts/changePassword.aspx.
+
+Now user remains idle and do not enters the password till the expiry time of the link i.e. "/Accounts/changePassword.aspx"
+When link expires.
+And Then if user tries to enter the password and update it.
+Then update will fail due to error stating that link has got expired.
+
+
+Test_7(Use Case 2):
+Verify that user always see ""/Accounts/changePassword.aspx"" pop up whenever user tries to do login but user do not update the password.
+
+Pre-Condition: System reset the user password.
+
+Test steps:
+When user login to the system for very first time after password is reset by the system.
+Then user should be redirected to page /Accounts/changePassword.aspx
+
+Now user remains idle and do not enters the password for sometime.
+Then user close the link without updating the password.
+
+Now user tries to login to the system again.
+Then again user should see ""/Accounts/changePassword.aspx"" pop up window  for changing the password.
+
+The window should always pop up whenever user tries to do login till he do not update the password.
+
+
+Test_8(Use Case 1/2): Verify all the above test in different different browsers
+
+Test_9(Use Case 1/2): For security test :Make sure your links are with https when user gets the pop up of "/Accounts/changePassword.aspx"
+
+
+
+
+
+
+

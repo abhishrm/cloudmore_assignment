@@ -1,0 +1,54 @@
+There are two <.feature> file in the automation repo code:
+
+1. ui_test_automation_part_b1.feature -> This file conatin test related to UI automation as per part Part B.1
+2. api_testing_part_c1.feature -> -> This file conatin test realted to UI API testing as per Part C.1 
+
+Read the above feature files to know what test has been covered
+
+
+Steps to run Automated test:
+
+
+1.
+Please first download "chromedriver.exe" from "https://chromedriver.chromium.org/downloads" based on Operating system you are using.
+Unzip the downloaded folder.
+
+Download the Automation code send by me locally on your machine.
+In automation code,Please ,Navigate to path -> assignment/steps/config/commonconfig.ini.
+Now ,you need to configure the configuration file i.e. commonconfig.ini .
+Here you will see variable with name-> chrome_exe_location_path.
+Please remove the existing path and replace it with the path where "chromedriver.exe" is downloaded locally on machine from where you wnat to run.
+
+2.
+You also need to install python libraries into your python environment(assuming your system already have it or otherwise install it).
+Install these below list of libraries:
+behave -> pip install behave
+selenium -> pip install selenium
+requests -> pip install requests
+random -> pip install random
+
+3.
+You are now ready to run test.
+In behave whatever tag we define ,behave will run those set of test. Tag are always placed above test scenario in feature file.
+For more info ,please check .feature file in automation repo.
+
+We define tag as -t @<tagname> in behave run command
+You can run specific UI test or all test all together sequentially located under ->ui_test_automation_part_b1.feature
+
+Commands you can use to run :
+To run UI test from -> ui_test_automation_part_b1.feature
+To run only single test let say I want to run @TC-1 from ->ui_test_automation_part_b1.feature, use below command using test case tag.
+behave src\features\ui_test_automation_part_b1.feature -t @TC-1 --no-skipped --no-capture
+
+To run only all test  from ->ui_test_automation_part_b1.feature, use below command
+behave src\features\ui_test_automation_part_b1.feature --no-skipped --no-capture
+
+
+To run API test from -> api_testing_part_c1.feature, follow same approach as above:
+
+If you want to run single test case, then use TC1 tag as @TC-1 as mentioned below:
+behave src\features\api_testing_part_c1.feature -t @TC-1 --no-skipped --no-capture
+
+
+To run only all test from ->api_testing_part_c1.feature, use below command
+behave src\features\api_testing_part_c1.feature -t --no-skipped --no-capture

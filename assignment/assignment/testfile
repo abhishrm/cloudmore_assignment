@@ -1,0 +1,1129 @@
+INFO test_framework 2022-05-19 08:52:34,324 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:52:34,327 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:52:34,327 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:52:37,770 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 08:52:37,770 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 08:52:37,772 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 08:52:37,772 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 08:52:37,778 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:37,778 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:38,901 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 08:52:38,901 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 08:52:38,902 users_endpoint get_user get a user : {"id":674061,"username":"stringefwntvnlfa","firstName":"stringmfrtumvdax","lastName":"stringhieghitdzd","email":"stringpomfuohsly","password":"stringqrmijgzmxe","phone":"stringwutjxkzsna","userStatus":0}
+INFO test_framework 2022-05-19 08:52:38,902 users_endpoint get_user get a user : {"id":674061,"username":"stringefwntvnlfa","firstName":"stringmfrtumvdax","lastName":"stringhieghitdzd","email":"stringpomfuohsly","password":"stringqrmijgzmxe","phone":"stringwutjxkzsna","userStatus":0}
+INFO test_framework 2022-05-19 08:52:38,907 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:38,907 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:40,014 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 08:52:40,014 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 08:52:40,015 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"674062"}
+INFO test_framework 2022-05-19 08:52:40,015 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"674062"}
+INFO test_framework 2022-05-19 08:52:40,019 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:40,019 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:41,140 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 08:52:41,140 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 08:52:41,141 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringefwntvnlfa"}
+INFO test_framework 2022-05-19 08:52:41,141 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringefwntvnlfa"}
+INFO test_framework 2022-05-19 08:52:41,146 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:41,146 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:42,268 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 08:52:42,268 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 08:52:42,268 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 08:52:42,268 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 08:52:42,274 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:52:42,274 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 08:54:20,395 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:54:20,397 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:54:20,397 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:55:29,499 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:55:29,502 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:55:29,502 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 08:55:43,682 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 08:55:43,682 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 08:55:55,970 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 08:55:55,970 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+ERROR test_framework 2022-05-19 11:24:44,202 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-19 11:24:44,205 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-19 11:24:44,205 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 11:24:59,796 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 11:24:59,796 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 11:25:12,053 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 11:25:12,053 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:10:11,376 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:10:11,378 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:10:11,378 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:10:31,232 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:10:31,232 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:10:44,357 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:10:44,357 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:12:55,261 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:12:55,264 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:12:55,264 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:13:18,085 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:13:18,085 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:13:30,636 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:13:30,636 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:16:48,830 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:16:48,832 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:16:48,832 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:17:38,726 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:17:38,726 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:21:37,490 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:21:37,493 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:21:37,493 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:21:53,726 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:21:53,726 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:33:46,154 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:33:46,156 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:33:46,156 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:33:48,637 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:33:48,637 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:33:48,638 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:33:48,638 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:33:48,640 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:48,640 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:50,277 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:33:50,277 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:33:50,279 users_endpoint get_user get a user : {"id":1000000000000000320,"username":"stringlkqhxonvdc","firstName":"stringqklopkuddf","lastName":"stringwcvdzhzzpr","email":"stringmxmerrzvdc","password":"stringbfrzrilhht","phone":"stringwrijdrserb","userStatus":0}
+INFO test_framework 2022-05-19 16:33:50,279 users_endpoint get_user get a user : {"id":1000000000000000320,"username":"stringlkqhxonvdc","firstName":"stringqklopkuddf","lastName":"stringwcvdzhzzpr","email":"stringmxmerrzvdc","password":"stringbfrzrilhht","phone":"stringwrijdrserb","userStatus":0}
+INFO test_framework 2022-05-19 16:33:50,284 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:50,284 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:51,911 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:33:51,911 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:33:51,912 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000321"}
+INFO test_framework 2022-05-19 16:33:51,912 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000321"}
+INFO test_framework 2022-05-19 16:33:51,917 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:51,917 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:53,450 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:33:53,450 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:33:53,452 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringlkqhxonvdc"}
+INFO test_framework 2022-05-19 16:33:53,452 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringlkqhxonvdc"}
+INFO test_framework 2022-05-19 16:33:53,458 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:53,458 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:54,882 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:33:54,882 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:33:54,885 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:33:54,885 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:33:54,892 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:33:54,892 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:13,805 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:13,808 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:13,808 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:16,079 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:34:16,079 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:34:16,080 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:34:16,080 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:34:16,086 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:16,086 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:17,715 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:34:17,715 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:34:17,716 users_endpoint get_user get a user : {"id":1000000000000000326,"username":"stringvjdmprdrtr","firstName":"stringonxgkoaptq","lastName":"stringofsyqcxqrf","email":"stringqncpvvopxq","password":"stringwhfniwflin","phone":"stringmnlgrordlp","userStatus":0}
+INFO test_framework 2022-05-19 16:34:17,716 users_endpoint get_user get a user : {"id":1000000000000000326,"username":"stringvjdmprdrtr","firstName":"stringonxgkoaptq","lastName":"stringofsyqcxqrf","email":"stringqncpvvopxq","password":"stringwhfniwflin","phone":"stringmnlgrordlp","userStatus":0}
+INFO test_framework 2022-05-19 16:34:17,721 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:17,721 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:19,357 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:34:19,357 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:34:19,358 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000327"}
+INFO test_framework 2022-05-19 16:34:19,358 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000327"}
+INFO test_framework 2022-05-19 16:34:19,363 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:19,363 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:20,968 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:34:20,968 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:34:20,968 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringvjdmprdrtr"}
+INFO test_framework 2022-05-19 16:34:20,968 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringvjdmprdrtr"}
+INFO test_framework 2022-05-19 16:34:20,973 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:20,973 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:22,634 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:34:22,634 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:34:22,635 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:34:22,635 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:34:22,640 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:22,640 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:53,381 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:53,384 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:53,384 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:34:55,608 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:34:55,608 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:34:55,608 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:34:55,608 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:34:55,613 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:34:55,613 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:37:10,990 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:37:10,992 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:37:10,992 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:37:13,145 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:37:13,145 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:37:13,147 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:37:13,147 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:37:13,156 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:37:13,156 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+ERROR test_framework 2022-05-19 16:37:13,161 user_api_operation_keywords step_impl user creation failed using endpoint:'data'
+ERROR test_framework 2022-05-19 16:37:13,161 user_api_operation_keywords step_impl user creation failed using endpoint:'data'
+INFO test_framework 2022-05-19 16:38:01,163 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:38:01,165 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:38:01,165 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:38:03,285 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:38:03,285 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:38:03,286 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:38:03,286 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:38:03,290 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:38:03,290 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+ERROR test_framework 2022-05-19 16:38:03,291 user_api_operation_keywords step_impl user creation failed using endpoint:'data'
+ERROR test_framework 2022-05-19 16:38:03,291 user_api_operation_keywords step_impl user creation failed using endpoint:'data'
+INFO test_framework 2022-05-19 16:39:26,706 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:26,709 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:26,709 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:29,219 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:29,219 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:29,223 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:39:29,223 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:39:29,228 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:39:29,228 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:39:38,974 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:38,976 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:38,976 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:41,305 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:41,305 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:41,308 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:39:41,308 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:39:41,312 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:39:41,312 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:39:43,734 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:43,737 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:43,737 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:46,011 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:46,011 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:46,013 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:39:46,013 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:39:46,017 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:39:46,017 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:39:51,772 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:51,776 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:51,776 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:39:54,200 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:54,200 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:39:54,201 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:39:54,201 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:39:54,206 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:39:54,206 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:40:26,508 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:40:26,512 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:40:26,512 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:40:28,945 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:40:28,945 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:40:28,947 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:40:28,947 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:40:28,952 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:28,952 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:30,657 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:40:30,657 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:40:30,659 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringqzsgqbtgbq"}
+INFO test_framework 2022-05-19 16:40:30,659 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringqzsgqbtgbq"}
+INFO test_framework 2022-05-19 16:40:30,664 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:30,664 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:32,297 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:40:32,297 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:40:32,298 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:40:32,298 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:40:32,302 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:32,302 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:33,726 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:40:33,726 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:40:33,727 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:40:33,727 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:40:33,732 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:40:33,732 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:04,003 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:04,006 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:04,006 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:06,497 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:06,497 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:06,498 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:06,498 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:41:06,502 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:41:06,502 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:41:11,542 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:11,545 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:11,545 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:13,970 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:13,970 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:13,971 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:13,971 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:41:13,975 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:41:13,975 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:41:20,965 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:20,969 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:20,969 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:23,291 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:23,291 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:23,296 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:23,296 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:23,297 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:23,297 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:24,826 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:41:24,826 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:41:24,827 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringapeshixzbw"}
+INFO test_framework 2022-05-19 16:41:24,827 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringapeshixzbw"}
+INFO test_framework 2022-05-19 16:41:24,832 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:24,832 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:26,359 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:26,359 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:26,361 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:26,361 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:26,366 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:26,366 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:27,794 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:27,794 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:27,796 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:27,796 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:27,802 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:27,802 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:35,093 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:35,096 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:35,096 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:41:37,828 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:37,828 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:41:37,828 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:37,828 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:41:37,834 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:37,834 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:39,470 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:41:39,470 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:41:39,471 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringhzeojowqbq"}
+INFO test_framework 2022-05-19 16:41:39,471 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringhzeojowqbq"}
+INFO test_framework 2022-05-19 16:41:39,475 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:39,475 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:41,108 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:41,108 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:41,109 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:41,109 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:41,114 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:41,114 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:42,743 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:42,743 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:41:42,743 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:42,743 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:41:42,749 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:41:42,749 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:43,940 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:42:43,942 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:42:43,942 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:42:46,248 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:46,248 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:46,249 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:46,249 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:46,258 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:46,258 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:47,766 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:42:47,766 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:42:47,767 users_endpoint get_user get a user : {"id":1000000000000000383,"username":"stringsphjrujxwx","firstName":"stringlttsndcxfu","lastName":"stringplqeqarhyd","email":"stringhcywltiqgt","password":"stringgnpitmlcdd","phone":"stringqcwhblvhen","userStatus":0}
+INFO test_framework 2022-05-19 16:42:47,767 users_endpoint get_user get a user : {"id":1000000000000000383,"username":"stringsphjrujxwx","firstName":"stringlttsndcxfu","lastName":"stringplqeqarhyd","email":"stringhcywltiqgt","password":"stringgnpitmlcdd","phone":"stringqcwhblvhen","userStatus":0}
+INFO test_framework 2022-05-19 16:42:47,769 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:47,769 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:49,306 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:42:49,306 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:42:49,306 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000384"}
+INFO test_framework 2022-05-19 16:42:49,306 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000384"}
+INFO test_framework 2022-05-19 16:42:49,312 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:49,312 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:50,824 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:42:50,824 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:42:50,825 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringsphjrujxwx"}
+INFO test_framework 2022-05-19 16:42:50,825 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringsphjrujxwx"}
+INFO test_framework 2022-05-19 16:42:50,831 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:50,831 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:52,374 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:42:52,374 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:42:52,375 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:42:52,375 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:42:52,376 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:52,376 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:54,013 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:54,013 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:54,013 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:54,013 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:54,018 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:54,018 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:55,447 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:55,447 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:55,447 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:55,447 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:42:55,453 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:42:55,453 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:42:56,975 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:56,975 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:56,975 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:56,975 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:42:56,980 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:42:56,980 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:42:58,455 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:58,455 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:42:58,456 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:58,456 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:42:58,461 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:42:58,461 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:00,163 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:00,163 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:00,164 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgefcbcktrm"}
+INFO test_framework 2022-05-19 16:43:00,164 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgefcbcktrm"}
+INFO test_framework 2022-05-19 16:43:00,172 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:00,172 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:01,797 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:01,797 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:01,798 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:01,798 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:01,804 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:01,804 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:03,437 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:03,437 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:03,438 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:03,438 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:03,442 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:03,442 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:04,871 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:04,871 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:04,872 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:04,872 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:04,877 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:04,877 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:06,301 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:06,301 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:06,301 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 16:43:06,301 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 16:43:06,306 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:43:06,306 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:43:07,943 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:07,943 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:07,943 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:07,943 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:07,948 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:07,948 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:09,578 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:43:09,578 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:43:09,578 users_endpoint get_user get a user : {"id":1000000000000000390,"username":"stringzwjdogdggm","firstName":"stringuvxyjgcngf","lastName":"stringgqhtqpxaut","email":"stringbghkymfkbz","password":"stringntxrcrtqis","phone":"stringtwgwsgabqg","userStatus":0}
+INFO test_framework 2022-05-19 16:43:09,578 users_endpoint get_user get a user : {"id":1000000000000000390,"username":"stringzwjdogdggm","firstName":"stringuvxyjgcngf","lastName":"stringgqhtqpxaut","email":"stringbghkymfkbz","password":"stringntxrcrtqis","phone":"stringtwgwsgabqg","userStatus":0}
+INFO test_framework 2022-05-19 16:43:09,583 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:09,583 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:11,020 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:11,020 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:11,021 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringzwjdogdggm"}
+INFO test_framework 2022-05-19 16:43:11,021 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringzwjdogdggm"}
+INFO test_framework 2022-05-19 16:43:11,026 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:11,026 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:12,243 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:12,243 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:12,243 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000390"}
+INFO test_framework 2022-05-19 16:43:12,243 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000390"}
+ERROR test_framework 2022-05-19 16:43:12,248 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+ERROR test_framework 2022-05-19 16:43:12,248 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+INFO test_framework 2022-05-19 16:43:13,777 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:13,777 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:13,778 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:13,778 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:13,783 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:13,783 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:15,517 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:15,517 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:15,517 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 16:43:15,517 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 16:43:15,523 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:43:15,523 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:43:17,564 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:17,564 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:17,565 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:17,565 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:17,567 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:17,567 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:19,206 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:19,206 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:19,207 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringbjauvbuikd"}
+INFO test_framework 2022-05-19 16:43:19,207 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringbjauvbuikd"}
+INFO test_framework 2022-05-19 16:43:19,212 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:19,212 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:21,867 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 16:43:21,867 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 16:43:21,869 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 16:43:21,869 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 16:43:21,876 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:21,876 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:23,508 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 16:43:23,508 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 16:43:23,508 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 16:43:23,508 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 16:43:23,510 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:23,510 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:25,146 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:25,146 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:25,147 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:25,147 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:25,151 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:25,151 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:26,840 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:43:26,840 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:43:26,841 users_endpoint get_user get a user : {"id":1000000000000000392,"username":"stringuhrihkzclx","firstName":"stringoojfgqzice","lastName":"stringhgfbiwchrb","email":"stringordowbpdmo","password":"stringpywjupcuwk","phone":"stringxkcvcgzngv","userStatus":0}
+INFO test_framework 2022-05-19 16:43:26,841 users_endpoint get_user get a user : {"id":1000000000000000392,"username":"stringuhrihkzclx","firstName":"stringoojfgqzice","lastName":"stringhgfbiwchrb","email":"stringordowbpdmo","password":"stringpywjupcuwk","phone":"stringxkcvcgzngv","userStatus":0}
+INFO test_framework 2022-05-19 16:43:26,850 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:26,850 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:28,419 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:28,419 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:43:28,420 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000393"}
+INFO test_framework 2022-05-19 16:43:28,420 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000393"}
+INFO test_framework 2022-05-19 16:43:28,425 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:28,425 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:30,880 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:30,880 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:43:30,881 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringuhrihkzclx"}
+INFO test_framework 2022-05-19 16:43:30,881 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringuhrihkzclx"}
+INFO test_framework 2022-05-19 16:43:30,885 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:30,885 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:33,190 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:33,190 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:43:33,191 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:33,191 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:43:33,200 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:33,200 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:35,533 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:35,533 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:35,534 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:35,534 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:35,539 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:35,539 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:43:37,638 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:37,638 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:37,639 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:37,639 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:43:37,644 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:43:37,644 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:43:39,482 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:39,482 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:43:39,483 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:43:39,483 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 16:43:39,491 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 16:43:39,491 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 16:43:40,663 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:40,663 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:40,754 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 16:43:40,754 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 16:43:40,754 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 16:43:40,754 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 16:43:42,144 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:42,144 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:42,145 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 16:43:42,145 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 16:43:42,146 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 16:43:42,146 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 16:43:43,780 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:43,780 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 16:43:43,781 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 16:43:43,781 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 16:43:43,783 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 16:43:43,783 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 16:45:07,412 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:45:07,414 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:45:07,414 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:46:45,762 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:46:45,762 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:46:59,857 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:46:59,857 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:48:13,041 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:48:13,044 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:48:13,044 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:49:36,755 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:49:36,755 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:49:50,023 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:49:50,023 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:51:24,463 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:51:24,466 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:51:24,466 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:52:56,925 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:52:56,928 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:52:56,928 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:54:41,160 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:54:41,160 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:54:54,840 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:54:54,840 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 16:57:28,550 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:57:28,552 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:57:28,552 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:57:31,578 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:57:31,578 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:57:31,578 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:57:31,578 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:57:31,584 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:31,584 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:33,421 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:57:33,421 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:57:33,422 users_endpoint get_user get a user : {"id":1000000000000000519,"username":"stringwznpgifcwt","firstName":"stringamzenzixnq","lastName":"stringpzifiavcxa","email":"stringbqdyoffyse","password":"stringhlaeolpbwl","phone":"stringqirlpxzwvy","userStatus":0}
+INFO test_framework 2022-05-19 16:57:33,422 users_endpoint get_user get a user : {"id":1000000000000000519,"username":"stringwznpgifcwt","firstName":"stringamzenzixnq","lastName":"stringpzifiavcxa","email":"stringbqdyoffyse","password":"stringhlaeolpbwl","phone":"stringqirlpxzwvy","userStatus":0}
+INFO test_framework 2022-05-19 16:57:33,427 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:33,427 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:34,999 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:57:34,999 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:57:34,999 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000520"}
+INFO test_framework 2022-05-19 16:57:34,999 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000520"}
+INFO test_framework 2022-05-19 16:57:35,004 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:35,004 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:37,108 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:57:37,108 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:57:37,110 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringwznpgifcwt"}
+INFO test_framework 2022-05-19 16:57:37,110 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringwznpgifcwt"}
+INFO test_framework 2022-05-19 16:57:37,118 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:57:37,118 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:12,638 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:58:12,640 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:58:12,640 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:58:14,791 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:58:14,791 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 16:58:14,792 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:58:14,792 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 16:58:14,800 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:14,800 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:16,223 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:58:16,223 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 16:58:16,224 users_endpoint get_user get a user : {"id":1000000000000000521,"username":"stringxiltlmwbew","firstName":"stringfycsrxemvb","lastName":"stringgkzusiovrv","email":"stringsjhuvcuotz","password":"stringiidxvmptxv","phone":"stringaaauuwnatx","userStatus":0}
+INFO test_framework 2022-05-19 16:58:16,224 users_endpoint get_user get a user : {"id":1000000000000000521,"username":"stringxiltlmwbew","firstName":"stringfycsrxemvb","lastName":"stringgkzusiovrv","email":"stringsjhuvcuotz","password":"stringiidxvmptxv","phone":"stringaaauuwnatx","userStatus":0}
+INFO test_framework 2022-05-19 16:58:16,229 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:16,229 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:17,655 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:58:17,655 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 16:58:17,655 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000522"}
+INFO test_framework 2022-05-19 16:58:17,655 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000522"}
+INFO test_framework 2022-05-19 16:58:17,660 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:17,660 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:19,245 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:58:19,245 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 16:58:19,246 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringxiltlmwbew"}
+INFO test_framework 2022-05-19 16:58:19,246 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringxiltlmwbew"}
+INFO test_framework 2022-05-19 16:58:19,250 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:19,250 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:20,935 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:58:20,935 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 16:58:20,938 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:58:20,938 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 16:58:20,951 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:58:20,951 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 16:59:50,620 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:59:50,622 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 16:59:50,622 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-19 16:59:50,630 user_api_operation_keywords step_impl user creation failed using endpoint:local variable 'users_info' referenced before assignment
+ERROR test_framework 2022-05-19 16:59:50,630 user_api_operation_keywords step_impl user creation failed using endpoint:local variable 'users_info' referenced before assignment
+INFO test_framework 2022-05-19 17:00:05,515 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:05,517 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:05,517 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:07,836 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:07,836 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:07,836 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:07,836 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:07,843 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:07,843 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:09,475 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:09,475 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:09,476 users_endpoint get_user get a user : {"id":1000000000000000526,"username":"stringgimyhshxyc","firstName":"stringtntkaglaal","lastName":"stringscxhnhycmk","email":"stringtqbyaafwqn","password":"stringhwveypnjxm","phone":"stringmdctkwqaep","userStatus":0}
+INFO test_framework 2022-05-19 17:00:09,476 users_endpoint get_user get a user : {"id":1000000000000000526,"username":"stringgimyhshxyc","firstName":"stringtntkaglaal","lastName":"stringscxhnhycmk","email":"stringtqbyaafwqn","password":"stringhwveypnjxm","phone":"stringmdctkwqaep","userStatus":0}
+INFO test_framework 2022-05-19 17:00:09,479 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:09,479 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:11,117 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:11,117 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:11,117 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000531"}
+INFO test_framework 2022-05-19 17:00:11,117 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000531"}
+INFO test_framework 2022-05-19 17:00:11,122 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:11,122 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:12,483 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:12,483 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:12,484 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgimyhshxyc"}
+INFO test_framework 2022-05-19 17:00:12,484 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgimyhshxyc"}
+INFO test_framework 2022-05-19 17:00:12,489 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:12,489 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:13,951 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:13,951 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:13,951 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:13,951 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:13,956 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:13,956 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:28,594 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:28,596 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:28,596 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:00:30,659 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:30,659 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:30,659 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:30,659 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:30,664 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:30,664 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:32,185 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:32,185 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:32,185 users_endpoint get_user get a user : {"id":1000000000000000534,"username":"stringgkrjjfrtof","firstName":"stringfsbzozggld","lastName":"stringowbuowlgju","email":"stringuoketrojxv","password":"stringptfgazabzd","phone":"stringhtvszikrfd","userStatus":0}
+INFO test_framework 2022-05-19 17:00:32,185 users_endpoint get_user get a user : {"id":1000000000000000534,"username":"stringgkrjjfrtof","firstName":"stringfsbzozggld","lastName":"stringowbuowlgju","email":"stringuoketrojxv","password":"stringptfgazabzd","phone":"stringhtvszikrfd","userStatus":0}
+INFO test_framework 2022-05-19 17:00:32,186 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:32,186 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:33,644 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:33,644 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:33,646 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000535"}
+INFO test_framework 2022-05-19 17:00:33,646 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000535"}
+INFO test_framework 2022-05-19 17:00:33,650 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:33,650 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:35,181 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:35,181 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:35,182 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgkrjjfrtof"}
+INFO test_framework 2022-05-19 17:00:35,182 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringgkrjjfrtof"}
+INFO test_framework 2022-05-19 17:00:35,191 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:35,191 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:36,512 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:36,512 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:36,513 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:36,513 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:36,522 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:36,522 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:38,152 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:38,152 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:38,153 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:38,153 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:38,158 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:38,158 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:39,785 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:39,785 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:39,785 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:39,785 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:00:39,787 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:00:39,787 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:00:41,423 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:41,423 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:41,424 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:41,424 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:00:41,425 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:00:41,425 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:00:42,861 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:42,861 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:42,866 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:42,866 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:42,878 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:42,878 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:44,363 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:44,363 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:44,364 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringutkzongdrs"}
+INFO test_framework 2022-05-19 17:00:44,364 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringutkzongdrs"}
+INFO test_framework 2022-05-19 17:00:44,370 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:44,370 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:45,706 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:45,706 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:45,707 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:45,707 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:45,715 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:45,715 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:46,963 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:46,963 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:00:46,963 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:46,963 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:00:46,971 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:46,971 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:48,594 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:48,594 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:48,596 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:48,596 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:48,600 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:48,600 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:50,233 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:50,233 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:50,234 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 17:00:50,234 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 17:00:50,239 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:00:50,239 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:00:51,761 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:51,761 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:51,762 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:51,762 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:51,767 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:51,767 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:52,954 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:52,954 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:00:52,955 users_endpoint get_user get a user : {"id":1000000000000000541,"username":"stringlhafapmrbt","firstName":"stringyolqvfenzm","lastName":"stringxoytiyuxke","email":"stringmkzbevheha","password":"stringijyghmxcyu","phone":"stringhpwaauxxgv","userStatus":0}
+INFO test_framework 2022-05-19 17:00:52,955 users_endpoint get_user get a user : {"id":1000000000000000541,"username":"stringlhafapmrbt","firstName":"stringyolqvfenzm","lastName":"stringxoytiyuxke","email":"stringmkzbevheha","password":"stringijyghmxcyu","phone":"stringhpwaauxxgv","userStatus":0}
+INFO test_framework 2022-05-19 17:00:52,963 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:52,963 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:54,499 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:54,499 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:00:54,500 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringlhafapmrbt"}
+INFO test_framework 2022-05-19 17:00:54,500 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringlhafapmrbt"}
+INFO test_framework 2022-05-19 17:00:54,509 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:54,509 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:55,995 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:55,995 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:55,996 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000547"}
+INFO test_framework 2022-05-19 17:00:55,996 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000547"}
+ERROR test_framework 2022-05-19 17:00:56,002 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+ERROR test_framework 2022-05-19 17:00:56,002 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+INFO test_framework 2022-05-19 17:00:57,284 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:57,284 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:00:57,284 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:57,284 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:00:57,289 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:57,289 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:00:58,627 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:58,627 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:00:58,627 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 17:00:58,627 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 17:00:58,632 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:00:58,632 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:01:00,271 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:00,271 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:00,273 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:00,273 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:00,282 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:00,282 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:01,565 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:01:01,565 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:01:01,566 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringpjueyfgpxw"}
+INFO test_framework 2022-05-19 17:01:01,566 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringpjueyfgpxw"}
+INFO test_framework 2022-05-19 17:01:01,571 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:01,571 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:03,132 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:01:03,132 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:01:03,132 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:01:03,132 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:01:03,137 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:03,137 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:04,773 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:01:04,773 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:01:04,775 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:01:04,775 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:01:04,779 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:04,779 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:06,614 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:06,614 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:06,614 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:06,614 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:06,619 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:06,619 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:08,252 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:01:08,252 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:01:08,252 users_endpoint get_user get a user : {"id":1000000000000000551,"username":"stringiszjzajfdg","firstName":"stringugidmprred","lastName":"stringgtfrodttdc","email":"stringrkercfixqw","password":"stringqkscnlzycu","phone":"stringzdlpnfqskl","userStatus":0}
+INFO test_framework 2022-05-19 17:01:08,252 users_endpoint get_user get a user : {"id":1000000000000000551,"username":"stringiszjzajfdg","firstName":"stringugidmprred","lastName":"stringgtfrodttdc","email":"stringrkercfixqw","password":"stringqkscnlzycu","phone":"stringzdlpnfqskl","userStatus":0}
+INFO test_framework 2022-05-19 17:01:08,257 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:08,257 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:09,890 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:01:09,890 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:01:09,891 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000554"}
+INFO test_framework 2022-05-19 17:01:09,891 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000554"}
+INFO test_framework 2022-05-19 17:01:09,895 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:09,895 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:11,532 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:01:11,532 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:01:11,533 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringiszjzajfdg"}
+INFO test_framework 2022-05-19 17:01:11,533 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringiszjzajfdg"}
+INFO test_framework 2022-05-19 17:01:11,535 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:11,535 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:13,376 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:01:13,376 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:01:13,376 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:01:13,376 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:01:13,379 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:13,379 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:14,977 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:14,977 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:14,978 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:14,978 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:14,986 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:14,986 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:01:16,651 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:16,651 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:16,651 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:16,651 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:01:16,659 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:01:16,659 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:01:18,286 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:18,286 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:01:18,287 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:01:18,287 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:01:18,292 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:01:18,292 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:01:19,484 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:19,484 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:19,488 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:01:19,488 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:01:19,488 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:01:19,488 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 17:01:20,715 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:20,715 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:20,716 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:01:20,716 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:01:20,718 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:01:20,718 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 17:01:22,182 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:22,182 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:01:22,182 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:01:22,182 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:01:22,183 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:01:22,183 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 17:10:49,669 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:10:49,671 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:10:49,671 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-19 17:10:49,679 user_api_operation_keywords step_impl user creation failed using endpoint:name 'user_info_data' is not defined
+ERROR test_framework 2022-05-19 17:10:49,679 user_api_operation_keywords step_impl user creation failed using endpoint:name 'user_info_data' is not defined
+INFO test_framework 2022-05-19 17:11:35,460 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:11:35,463 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:11:35,463 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-19 17:11:35,471 user_api_operation_keywords step_impl user creation failed using endpoint:name 'user_info_data' is not defined
+ERROR test_framework 2022-05-19 17:11:35,471 user_api_operation_keywords step_impl user creation failed using endpoint:name 'user_info_data' is not defined
+INFO test_framework 2022-05-19 17:13:09,685 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:13:09,688 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:13:09,688 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:13:11,913 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:13:11,913 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:13:11,914 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:13:11,914 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:13:11,915 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:13:11,915 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:32,706 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:24:32,708 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:24:32,708 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 17:24:35,037 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:35,037 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:35,037 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:35,037 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:35,038 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:35,038 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:36,876 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:24:36,876 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:24:36,877 users_endpoint get_user get a user : {"id":1000000000000000728,"username":"stringuanykuxiee","firstName":"stringemlzkivcoi","lastName":"stringqbnylarnnp","email":"stringouzbyilimc","password":"stringvlfwkfyhkx","phone":"stringsoxmzgvsxe","userStatus":0}
+INFO test_framework 2022-05-19 17:24:36,877 users_endpoint get_user get a user : {"id":1000000000000000728,"username":"stringuanykuxiee","firstName":"stringemlzkivcoi","lastName":"stringqbnylarnnp","email":"stringouzbyilimc","password":"stringvlfwkfyhkx","phone":"stringsoxmzgvsxe","userStatus":0}
+INFO test_framework 2022-05-19 17:24:36,878 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:36,878 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:38,275 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:38,275 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:38,276 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000729"}
+INFO test_framework 2022-05-19 17:24:38,276 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000729"}
+INFO test_framework 2022-05-19 17:24:38,277 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:38,277 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:40,050 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:40,050 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:40,050 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringuanykuxiee"}
+INFO test_framework 2022-05-19 17:24:40,050 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringuanykuxiee"}
+INFO test_framework 2022-05-19 17:24:40,052 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:40,052 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:41,398 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:41,398 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:41,398 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:41,398 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:41,404 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:41,404 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:42,797 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:42,797 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:42,797 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:42,797 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:42,802 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:42,802 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:44,106 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:44,106 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:44,107 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:44,107 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:24:44,111 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:24:44,111 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:24:45,368 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:45,368 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:45,369 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:45,369 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:24:45,374 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:24:45,374 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:24:46,692 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:46,692 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:46,692 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:46,692 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:46,697 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:46,697 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:47,978 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:47,978 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:47,979 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringqhptyxphcj"}
+INFO test_framework 2022-05-19 17:24:47,979 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringqhptyxphcj"}
+INFO test_framework 2022-05-19 17:24:47,981 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:47,981 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:49,205 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:49,205 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:49,206 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:49,206 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:49,210 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:49,210 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:50,515 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:50,515 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:24:50,516 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:50,516 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:24:50,522 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:50,522 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:51,878 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:51,878 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:51,878 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:51,878 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:51,883 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:51,883 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:53,196 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:53,196 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:53,196 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 17:24:53,196 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 17:24:53,198 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:24:53,198 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:24:54,515 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:54,515 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:24:54,516 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:54,516 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:24:54,521 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:54,521 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:55,995 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:24:55,995 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:24:55,996 users_endpoint get_user get a user : {"id":1000000000000000735,"username":"stringmumxfxbhop","firstName":"stringekxcvqgkco","lastName":"stringbqgvqtdepp","email":"stringttcvklbsye","password":"stringdfgpiugcxt","phone":"stringkyryzptkcz","userStatus":0}
+INFO test_framework 2022-05-19 17:24:55,996 users_endpoint get_user get a user : {"id":1000000000000000735,"username":"stringmumxfxbhop","firstName":"stringekxcvqgkco","lastName":"stringbqgvqtdepp","email":"stringttcvklbsye","password":"stringdfgpiugcxt","phone":"stringkyryzptkcz","userStatus":0}
+INFO test_framework 2022-05-19 17:24:56,004 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:56,004 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:57,249 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:57,249 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:24:57,250 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringmumxfxbhop"}
+INFO test_framework 2022-05-19 17:24:57,250 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringmumxfxbhop"}
+INFO test_framework 2022-05-19 17:24:57,255 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:57,255 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:24:58,535 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:58,535 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:24:58,536 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000736"}
+INFO test_framework 2022-05-19 17:24:58,536 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000736"}
+ERROR test_framework 2022-05-19 17:24:58,544 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+ERROR test_framework 2022-05-19 17:24:58,544 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 404, got: 200
+INFO test_framework 2022-05-19 17:25:00,316 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:00,316 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:00,317 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:00,317 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:00,322 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:00,322 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:01,547 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:25:01,547 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:25:01,549 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+INFO test_framework 2022-05-19 17:25:01,549 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"0"}
+ERROR test_framework 2022-05-19 17:25:01,553 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:25:01,553 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+INFO test_framework 2022-05-19 17:25:02,836 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:02,836 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:02,836 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:02,836 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:02,841 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:02,841 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:04,164 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:25:04,164 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:25:04,164 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringxuzjkmuclu"}
+INFO test_framework 2022-05-19 17:25:04,164 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringxuzjkmuclu"}
+INFO test_framework 2022-05-19 17:25:04,170 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:04,170 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:05,463 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:25:05,463 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:25:05,464 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:25:05,464 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:25:05,466 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:05,466 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:06,731 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:25:06,731 users_endpoint delete_user delete user status code : 404
+INFO test_framework 2022-05-19 17:25:06,732 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:25:06,732 users_endpoint delete_user delete user text : 
+INFO test_framework 2022-05-19 17:25:06,736 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:06,736 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:08,077 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:08,077 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:08,078 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:08,078 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:08,084 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:08,084 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:09,329 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:25:09,329 users_endpoint get_user get user status code: 200
+INFO test_framework 2022-05-19 17:25:09,330 users_endpoint get_user get a user : {"id":1000000000000000740,"username":"stringwcxzrnbdpn","firstName":"stringkhuxejpngz","lastName":"stringukihlqfjaj","email":"stringshxaklfvtw","password":"stringjwpiqlanji","phone":"stringrnpqxmwbkd","userStatus":0}
+INFO test_framework 2022-05-19 17:25:09,330 users_endpoint get_user get a user : {"id":1000000000000000740,"username":"stringwcxzrnbdpn","firstName":"stringkhuxejpngz","lastName":"stringukihlqfjaj","email":"stringshxaklfvtw","password":"stringjwpiqlanji","phone":"stringrnpqxmwbkd","userStatus":0}
+INFO test_framework 2022-05-19 17:25:09,334 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:09,334 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:10,649 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:25:10,649 users_endpoint update_user updated user status code : 200
+INFO test_framework 2022-05-19 17:25:10,650 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000741"}
+INFO test_framework 2022-05-19 17:25:10,650 users_endpoint update_user updated user : {"code":200,"type":"unknown","message":"1000000000000000741"}
+INFO test_framework 2022-05-19 17:25:10,655 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:10,655 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:11,935 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:25:11,935 users_endpoint delete_user delete user status code : 200
+INFO test_framework 2022-05-19 17:25:11,936 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringwcxzrnbdpn"}
+INFO test_framework 2022-05-19 17:25:11,936 users_endpoint delete_user delete user text : {"code":200,"type":"unknown","message":"stringwcxzrnbdpn"}
+INFO test_framework 2022-05-19 17:25:11,941 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:11,941 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:13,890 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:25:13,890 users_endpoint get_user get user status code: 404
+INFO test_framework 2022-05-19 17:25:13,891 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:25:13,891 users_endpoint get_user get a user : {"code":1,"type":"error","message":"User not found"}
+INFO test_framework 2022-05-19 17:25:13,895 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:13,895 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:19,777 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:19,777 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:19,778 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:19,778 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:19,783 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:19,783 user_api_operation_keywords step_impl #############Successfully Verified status code ################## 
+INFO test_framework 2022-05-19 17:25:25,648 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:25,648 users_endpoint create_user created user status code : 200
+INFO test_framework 2022-05-19 17:25:25,648 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+INFO test_framework 2022-05-19 17:25:25,648 users_endpoint create_user create user : {"code":200,"type":"unknown","message":"ok"}
+ERROR test_framework 2022-05-19 17:25:25,654 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:25:25,654 user_api_operation_keywords step_impl user status code/details match failed using endpoint:Status code is not as per expectation, expected: 422, got: 200
+ERROR test_framework 2022-05-19 17:25:28,341 user_api_operation_keywords step_impl user creation failed using endpoint:('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+ERROR test_framework 2022-05-19 17:25:28,341 user_api_operation_keywords step_impl user creation failed using endpoint:('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+INFO test_framework 2022-05-19 17:25:31,481 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:31,481 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:31,489 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:25:31,489 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:25:31,490 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:25:31,490 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 17:25:33,208 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:33,208 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:33,209 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:25:33,209 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:25:33,210 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:25:33,210 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 17:25:34,727 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:34,727 users_endpoint create_user created user status code : 405
+INFO test_framework 2022-05-19 17:25:34,728 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+INFO test_framework 2022-05-19 17:25:34,728 users_endpoint create_user create user : <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+ERROR test_framework 2022-05-19 17:25:34,729 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+ERROR test_framework 2022-05-19 17:25:34,729 user_api_operation_keywords step_impl user creation failed using endpoint:Expecting value: line 1 column 1 (char 0)
+INFO test_framework 2022-05-19 18:18:07,291 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:18:07,293 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:18:07,293 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:18:18,661 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:18:18,661 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:18:30,739 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:18:30,739 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:18:54,219 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:18:54,221 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:18:54,221 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:19:06,484 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:19:06,484 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:19:18,544 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:19:18,544 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen.png
+INFO test_framework 2022-05-19 18:24:11,698 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:24:11,700 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-19 18:24:11,700 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:01:31,639 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:01:31,651 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:01:31,651 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:02:37,466 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:02:37,466 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:02:50,146 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:02:50,146 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:04:00,216 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:04:00,218 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:04:00,218 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:04:39,258 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:04:39,258 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:04:51,861 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:04:51,861 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:14:57,268 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:14:57,270 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:14:57,270 environment initialise_logger #############LOGGER CREATED ################## 
+ERROR test_framework 2022-05-22 14:15:00,712 common_ui_utility initialise_webdriver Error in initialising the webdriver : Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=101.0.4951.67)
+
+ERROR test_framework 2022-05-22 14:15:00,712 common_ui_utility initialise_webdriver Error in initialising the webdriver : Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=101.0.4951.67)
+
+INFO test_framework 2022-05-22 14:16:27,218 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:16:27,221 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:16:27,221 environment initialise_logger #############LOGGER CREATED ################## 
+INFO test_framework 2022-05-22 14:17:04,809 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:17:04,809 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:17:17,992 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
+INFO test_framework 2022-05-22 14:17:17,992 common_ui_utility capture_screenshot Trying to save screen shot at path : screen_shot_ui\screen
